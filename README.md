@@ -1,4 +1,4 @@
-# Chess-Made-Intelligent ♟️🤖
+# CuriousChess ♟️🤖
 
 An intelligent, autonomous Chess AI engine featuring a **PyTorch deep learning evaluation network**, an **Alpha-Beta search engine with Move Ordering**, and an **interactive desktop GUI**, powered by `python-chess`.
 
